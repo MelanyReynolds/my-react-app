@@ -14,9 +14,9 @@ export default function Home() {
       <p>Home</p>
       
       <div className="box" > Box </div>
-
+      <div className="box2" > Box </div>
       <img
-        src={'https://imagizer.imageshack.com/img538/9889/xlMaV6.jpg'}
+        src={'https://png.pngtree.com/png-clipart/20230405/original/pngtree-cartoon-cute-cat-sticker-kitty-kitten-png-image_9029295.png'}
         className="imageclass"
       /> 
 
