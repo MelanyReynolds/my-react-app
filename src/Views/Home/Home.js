@@ -10,6 +10,8 @@ export default function Home() {
 
       <a href="/flex"> Go to Flex </a>
       <a href="/styled"> Go to Styled </a>
+            <a href="/styled"> Go to Styled </a>
+
 
       <p>Home</p>
       
