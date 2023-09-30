@@ -14,7 +14,7 @@ const personajes = [
   {
     "nombre": "Rosalind Franklin",
     "apodo": "La Dama del ADN",
-    "imagen_url": "https://ejemplo.com/rosalind_franklin.jpg",
+    "imagen_url": "https://api.time.com/wp-content/uploads/2020/03/1953_Rosalind-Franklin.jpg",
     "ocupacion": "Biofísica y Cristalografía de rayos X",
     "nacionalidad": "Británica",
     "fecha_nacimiento": "25 de julio de 1920",
@@ -32,7 +32,7 @@ const personajes = [
   {
     "nombre": "Barbara McClintock",
     "apodo": "La Maestra de los Genes Saltarines",
-    "imagen_url": "https://ejemplo.com/barbara_mcclintock.jpg",
+    "imagen_url": "https://sciencewarsdotcom.files.wordpress.com/2018/03/mcclintock.jpg",
     "ocupacion": "Genetista",
     "nacionalidad": "Estadounidense",
     "fecha_nacimiento": "16 de junio de 1902",
@@ -41,7 +41,7 @@ const personajes = [
   {
     "nombre": "Ada Lovelace",
     "apodo": "Primera Programadora",
-    "imagen_url": "https://ejemplo.com/ada_lovelace.jpg",
+    "imagen_url": "https://mujeresconciencia.com/app/uploads/2018/07/Ada_Lovelace_portrait_circa_1840.jpg",
     "ocupacion": "Matemática y Escritora",
     "nacionalidad": "Británica",
     "fecha_nacimiento": "10 de diciembre de 1815",
@@ -50,7 +50,7 @@ const personajes = [
   {
     "nombre": "Emmy Noether",
     "apodo": "Madre de la Matemática Moderna",
-    "imagen_url": "https://ejemplo.com/emmy_noether.jpg",
+    "imagen_url": "https://ichef.bbci.co.uk/news/640/cpsprodpb/AB74/production/_95129834_412f21ef-8d74-47fa-966a-f68af690d787.jpg",
     "ocupacion": "Matemática",
     "nacionalidad": "Alemana",
     "fecha_nacimiento": "23 de marzo de 1882",
@@ -59,7 +59,7 @@ const personajes = [
   {
     "nombre": "Chien-Shiung Wu",
     "apodo": "La Reina de la Física Experimental",
-    "imagen_url": "https://ejemplo.com/chien_shiung_wu.jpg",
+    "imagen_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7t1aznXe41m5wHQaihSCnZRECecqpZ3DwI9qifDHBQ-G_celcNbfqtJpD2eZmmHdkPxw&usqp=CAU",
     "ocupacion": "Física Experimental",
     "nacionalidad": "China",
     "fecha_nacimiento": "29 de mayo de 1912",
