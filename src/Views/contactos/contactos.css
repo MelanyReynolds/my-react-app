@@ -1,0 +1,81 @@
+/*
+Arial
+Brush Script MT
+Comic Sans
+Courier New
+Garamond
+Georgia
+Helvetica
+Impact
+Lucida Console
+Palatino
+Tahoma
+Times New Roman
+Trebuchet MS
+Verdana
+*/
+
+.contenedor {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 10px
+  
+}
+
+  .tarjeta-personaje {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    flex-wrap: nowrap;
+    border: 1px solid gray;
+    box-shadow: 10px 5px 5px red;
+    cursor: pointer;
+    width: 300px;
+  }
+  .tarjeta-personaje:hover {
+    box-shadow: 10px 5px 5px green;
+  }
+
+    .lado-izquierdo {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background-color: red;
+      
+    }
+      .personaje-imagen {
+        height: 200px;
+        width: 100px;
+        object-fit: cover;
+      }
+
+    .lado-derecho {
+      display: flex; 
+      flex-direction: column;
+    }
+      .personaje-nombre {
+        font-family: Verdana;
+      }
+      .personaje-apodo {
+        font-family: Helvetica;
+      }
+      .personaje-ocupacion {
+        font-family: Impact;
+      }
+
+      .contenedor-fecha-nacionalidad {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      }
+
+        .personaje-nacionalidad {
+          font-family: Garamond;
+          font-size: 20px;
+          font-weight: 700;
+        }
+        .personaje-fecha {
+          font-family: Impact;
+          font-size: 15px;
+        }

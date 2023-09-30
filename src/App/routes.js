@@ -5,6 +5,8 @@ import FlexBox from "../Views/FlexBox/FlexBox";
 import Home from "../Views/Home/Home";
 import Styled from "../Views/Styled/Styled";
 
+import ContactosView from "../Views/contactos/contactos";
+
 export const router = createBrowserRouter([
   {
     element: <App/>,
@@ -21,6 +23,10 @@ export const router = createBrowserRouter([
       {
         path: "/styled",
         element: <Styled/>
+      },
+      {
+        path: "/contactos",
+        element: <ContactosView/>
       },
     ]
   }
